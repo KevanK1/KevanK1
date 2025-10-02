@@ -4,6 +4,8 @@ Myself K1, a **Fullstack Developer** with a knack for going beyond the basics.
 
 Started with MERN — I scale my backend from **Express.js to FastAPI**, mix in **OpenAI APIs**, and even wire up workflows with **n8n on Docker** for lifetime automation.  
 
+![](https://nirzak-streak-stats.vercel.app/?user=KevanK1&theme=dark&hide_border=false)<br/>
+
 On the academic side, I’m currently under **WIPRO’s University Training**, working toward a **Java Fullstack Certification** — balancing the **modern dynamic stack** with the **conventional enterprise approach**.  
 
 This blend lets me move between building **cutting-edge prototypes** and writing **scalable, production-grade systems** without compromise.  
