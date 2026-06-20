@@ -1,6 +1,6 @@
 # 💫 About Me  
 
-Myself K1, a **Fullstack Developer** with a knack for going beyond the basics.  
+Myself K1, a **SAP Certified ABAP Backend Developer** with a knack for going for my ♥ **Fullstack Development**.  
 
 Started with MERN — I scale my backend from **Express.js to FastAPI**, mix in **OpenAI APIs**, and even wire up workflows with **n8n on Docker** for lifetime automation.  
 
